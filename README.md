@@ -2,7 +2,8 @@
 
 Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne vous inquiétez pas, je ne mords pas !
 
-**Déplacement urbain en Ile-De-France**
+## Déplacement urbain en Ile-De-France
+
 Application de déplacements urbains en Île-de-France avec suivi en temps réel sur une carte interactive.
 - Front-End : Flutter, Mapbox
 - Back-End : Python 🐍 PostgreSQL, Flask, aiohttp, Docker, geojson, overpy, Shapely, Apache-Kafka
