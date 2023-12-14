@@ -9,7 +9,7 @@ Application de déplacements urbains en Île-de-France avec suivi en temps réel
 - **Back-End :** Python 🐍 PostgreSQL, Flask, aiohttp, Docker, geojson, overpy, Shapely, Apache-Kafka
 - **Outil :** OpenStreetMap
 
-##  Système de cartographie de gestion de parcelles
+##  Système de cartographie de parcelles
 
 Mise en place d'un système de cartographie de gestion de parcelles (Guinée 🇬🇳) pour résoudre les conflits domaniaux.
 - **Front-End :** HTML/CS, JS, Mapbox-JS
