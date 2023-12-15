@@ -48,6 +48,9 @@ Mise en place d'un logiciel de gestion de notes scolaires d'un établissement (P
 Le logiciel est destiné aux endroits du globe où l'accès à internet est un luxe
 Backup hebdomadaire de la base de données de l'établissement
 
+- **Front-End :** *Desktop* QT QWidget, *Web* HTML, CSS
+- **Back-End :** Python, SQLAlchemy, QSqlQuery, pandas, matplotlib, MySQL
+
 <!--
 **doumbis224/doumbis224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
