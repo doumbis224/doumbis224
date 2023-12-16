@@ -57,7 +57,9 @@ Backup hebdomadaire de la base de données de l'établissement
 
 ### Projet Optométriste
 
-### Projet de dépistage visuel
+Produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet quelques minutes
+
+### Projet de Dépistage Visuel
 
 ### Projet Opticien
 <!--
