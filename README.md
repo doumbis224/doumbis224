@@ -55,9 +55,16 @@ Backup hebdomadaire de la base de données de l'établissement
 
 - ## Consultant Ingénieur chez Essilor 👓🕶️😎
 
-### Projet Optométriste
+### Projet Optométriste | Depuis 2023
 
 Produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet quelques minutes
+
+- **Front-End :** QT QML
+- **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie,
+- **Outil :** Git, Bitbucket, Jenkins
+- **Protocoles de communication :** DBus
+- **Plateformes :** Linux/Debian/Ubuntu, Yocto, Windows
+- **Gestion de projet :** Méthodologie Agile, Jira, Confluence
 
 ### Projet de Dépistage Visuel
 
