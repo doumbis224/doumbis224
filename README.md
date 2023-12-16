@@ -53,7 +53,7 @@ Backup hebdomadaire de la base de données de l'établissement
 
 # EXPERIENCES PROFESIONNELLES
 
-- ## Consultant Ingénieur chez Essilor
+- ## Consultant Ingénieur chez Essilor 👓🕶️😎
 
 <!--
 **doumbis224/doumbis224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
