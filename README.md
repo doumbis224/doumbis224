@@ -51,7 +51,9 @@ Backup hebdomadaire de la base de données de l'établissement
 - **Front-End :** *Desktop* QT QWidget, *Web* HTML, CSS
 - **Back-End :** Python, SQLAlchemy, QSqlQuery, pandas, matplotlib, MySQL
 
-# EXPERIENCES PROFESSIONNELLES
+# EXPERIENCES PROFESIONNELLES
+
+## Consultant Ingénieur chez Essilor
 
 <!--
 **doumbis224/doumbis224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
