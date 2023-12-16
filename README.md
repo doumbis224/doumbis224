@@ -55,6 +55,11 @@ Backup hebdomadaire de la base de données de l'établissement
 
 - ## Consultant Ingénieur chez Essilor 👓🕶️😎
 
+### Projet Optométriste
+
+### Projet de dépistage visuel
+
+### Projet Opticien
 <!--
 **doumbis224/doumbis224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
