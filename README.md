@@ -7,14 +7,14 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 Application de déplacements urbains en Île-de-France avec suivi en temps réel sur une carte interactive
 - **Front-End :** Flutter, Mapbox
 - **Back-End :** Python 🐍 PostgreSQL, Flask, aiohttp, Docker, geojson, overpy, Shapely, Apache-Kafka
-- **Outil :** OpenStreetMap
+- **Outil :** OpenStreetMap, Postman
 
 ##  Système de cartographie de parcelles
 
 Mise en place d'un système de cartographie de gestion de parcelles (Guinée 🇬🇳) pour résoudre les conflits domaniaux
 - **Front-End :** HTML/CS, JS, Mapbox-JS
 - **Back-End :** Python, Flask, PostgreSQL, docker, docker-compose, kubernetes, GCP, Microsoft Azure, waitress
-- **Outil :** QGIS
+- **Outil :** OpenStreetMap, QGIS, Postman
 
 ##  Blockchain
 
