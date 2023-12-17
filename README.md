@@ -53,13 +53,13 @@ Backup hebdomadaire de la base de données de l'établissement
 
 # EXPERIENCES PROFESIONNELLES
 
-- ## Consultant Ingénieur chez Essilor 👓🕶️😎
+- ## Consultant Ingénieur chez Essilor 👓🕶️😎 | Depuis 2023
 
-### Projet Optométriste | Depuis 2023
+### Projet Optométriste
 
 Développement d’un produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet en quelques minutes
 
-- **Travaux réalisés**
+- **Travaux réalisés :**
     - Responsable de la gestion des données médicales (système de fichiers, base de données relationnelles)
     - Développement embarqué
     - Rédaction de documentation
@@ -72,13 +72,56 @@ Développement d’un produit de diagnostic visuel combinant plusieurs technolog
     - Référent technique Python
     - Mise en place des scripts d’automatisation en Python / Shell
 
-- **Front-End :** QT QML
+- **Front-End :** QT6 QML
 - **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie, Shell
 - **Outil :** Git, Bitbucket, Jenkins
 - **Réseaux :** DBus, NetworkManager, TCP/UDP, SSH
 - **Plateformes :** Linux/Debian/Ubuntu, Yocto, Windows
 - **Gestion de projet :** Agile, Jira, Confluence
 
+### Développement logiciel des produits de taillage de verres destinés aux opticiens
+
+- **Travaux réalisés :**
+    - Analyse du besoin client
+    - Compréhension du code existant
+    - Rédaction de documentation
+    - Reprise et développement d’IHM
+    - Test & validation pour l’intégration des IHM
+    - Intervention au sein de l’usine de production
+    - Formateur GIT et architecture générale du projet aux nouveaux arrivants
+    - Développement backend et frontend
+    - Développement middleware (couche métier)
+    - Mise en place d’une base de données SQLite
+    - Élaboration de l'API d’accès à la base données
+    - Mise en place des scripts d’automatisation en Python
+
+- **Front-End :** QT5 QML
+- **Back-End :** C++, Python, C, SQLite
+- **Outil :** Git, Bitbucket, Jenkins, UDEV
+- **Réseaux :** DBus, TCP/UDP, SSH
+- **Plateformes :** Linux/Debian/Ubuntu, Yocto, Windows
+- **Gestion de projet :** Agile, Jira, Confluence
+
+
+### Lumiz 100
+
+Développement multi-plateformes d’un produit de dépistage visuel, il permet de générer et de projeter de la lumière sur les yeux d’un patient, en fonction de sa sensibilité, des verres lui seront recommandés
+
+- **Travaux réalisés :**
+    - Reprise du code existant de l’application
+    - Correction de bugs
+    - Développement de nouvelles fonctionnalités
+    - Déploiement de l’application sur Google Store et Apple Store
+    - Gestion de multi-langues
+
+- **Front-End :** Ionic/Angular, Chart.js
+- **Back-End :** TypeScript, JavaScript
+- **Outil :** Git, Bitbucket
+- **Réseaux :** Wifi, Bluetooth
+- **Plateformes :** Android, iOS, Web
+- **Gestion de projet :** Agile, Jira, Confluence
+ 
+      
 ### Projet de Dépistage Visuel
 
 ### Projet Opticien
