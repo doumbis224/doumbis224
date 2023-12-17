@@ -74,7 +74,7 @@ Développement d’un produit de diagnostic visuel combinant plusieurs technolog
 
 - **Front-End :** QT6 QML
 - **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie, Shell
-- **Outil :** Git, Bitbucket, Jenkins
+- **Outil :** Git, Bitbucket, Jenkins, QT Creator, VS Code
 - **Réseaux :** DBus, NetworkManager, TCP/UDP, SSH
 - **Plateformes :** Linux/Debian/Ubuntu, Yocto, Windows
 - **Gestion de projet :** Agile, Jira, Confluence
@@ -97,7 +97,7 @@ Développement d’un produit de diagnostic visuel combinant plusieurs technolog
 
 - **Front-End :** QT5 QML
 - **Back-End :** C++, Python, C, SQLite
-- **Outil :** Git, Bitbucket, Jenkins, UDEV
+- **Outil :** Git, Bitbucket, Jenkins, QT Creator, VS Code, UDEV
 - **Réseaux :** DBus, TCP/UDP, SSH
 - **Plateformes :** Linux/Debian/Ubuntu, Yocto, Windows
 - **Gestion de projet :** Agile, Jira, Confluence
@@ -116,7 +116,7 @@ Développement multi-plateformes d’un produit de dépistage visuel, il permet 
 
 - **Front-End :** Ionic/Angular, Chart.js
 - **Back-End :** TypeScript, JavaScript
-- **Outil :** Git, Bitbucket
+- **Outil :** Git, Bitbucket, VS Code
 - **Réseaux :** Wifi, Bluetooth
 - **Plateformes :** Android, iOS, Web
 - **Gestion de projet :** Agile, Jira, Confluence
@@ -132,9 +132,9 @@ Nouvelle génération de dépisteurs visuels avec technologie digitale. Le proje
     - Développement de nouvelles fonctionnalités
     - Génération d’exécutable
 
-- **Front-End :** JavaFX, Android Studio
-- **Back-End :** Java
-- **Outil :** Git, Bitbucket
+- **Front-End :** JavaFX
+- **Back-End :** Java, Android Studio
+- **Outil :** Git, Bitbucket, IntelliJ
 - **Réseaux :** Wifi, Bluetooth
 - **Plateformes :** Android, Windows
 - **Gestion de projet :** Agile, Jira, Confluence
