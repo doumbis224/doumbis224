@@ -15,12 +15,15 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 </p>
 
 - **Outils :** Git, Bitbucket, Github, Postman
+<p align="center">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
+</p>
 
 - **CI/CD :** Docker, Docker-compose Kubernetes, Argo CD, GCP, Azure, Jenkins, Grafana
 
 - **CAO :** FreeCAD, KiCAD
 
-- Gestion de projet : Agile, Jira, Confluence, Kanban
+- **Gestion de projet :** Agile, Jira, Confluence, Kanban
 
 ## Déplacement urbain en Ile-De-France
 
