@@ -14,6 +14,14 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+- **Outils :** Git, Bitbucket, Github, Postman
+
+- **CI/CD :** Docker, Docker-compose Kubernetes, Argo CD, GCP, Azure, Jenkins, Grafana
+
+- **CAO :** FreeCAD, KiCAD
+
+- Gestion de projet : Agile, Jira, Confluence, Kanban
+
 ## Déplacement urbain en Ile-De-France
 
 Application de déplacements urbains en Ile-de-France avec suivi en temps réel sur une carte interactive
