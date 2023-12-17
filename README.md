@@ -121,7 +121,24 @@ Développement multi-plateformes d’un produit de dépistage visuel, il permet 
 - **Plateformes :** Android, iOS, Web
 - **Gestion de projet :** Agile, Jira, Confluence
  
-      
+### Visiosmart
+
+Nouvelle génération de dépisteurs visuels avec technologie digitale. Le projet est composé d’un logiciel de pilotage à distance et d’un produit standalone (autonome)
+
+- **Travaux réalisés :**
+    - Reprise du code existant de l’application
+    - Transfert de compétences entre la société externe (contrat de sous-traitance) et moi
+    - Correction de bugs
+    - Développement de nouvelles fonctionnalités
+    - Génération d’exécutable
+
+- **Front-End :** JavaFX, Android Studio
+- **Back-End :** Java
+- **Outil :** Git, Bitbucket
+- **Réseaux :** Wifi, Bluetooth
+- **Plateformes :** Android, Windows
+- **Gestion de projet :** Agile, Jira, Confluence
+
 ### Projet de Dépistage Visuel
 
 ### Projet Opticien
