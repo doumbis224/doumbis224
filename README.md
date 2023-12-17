@@ -139,9 +139,33 @@ Nouvelle génération de dépisteurs visuels avec technologie digitale. Le proje
 - **Plateformes :** Android, Windows
 - **Gestion de projet :** Agile, Jira, Confluence
 
-### Projet de Dépistage Visuel
+- ## Ingénieur Développeur / Instrumentation chez THALES AVS ✈️🚀✈️ | 2018 - 2021
 
-### Projet Opticien
+### Logiciel de gestion de suivi des composants défaillants
+
+- **Travaux réalisés :**
+    - Analyse et traitement des données brutes (Excel)
+    - Représentation graphique
+    - Analyse statistique
+
+- **Front-End :** PyQT5, Matplotlib (pyplot)
+- **Back-End :** Python, Pandas, Numpy, CSV, SQLAlchemy, QSqlQuery
+- **Outil :** Git, Eclipse
+- **Plateformes :** Windows, Linux
+- **Gestion de projet :** Kanban
+
+### Développement de bancs de test
+
+- **Travaux réalisés :**
+    - Programmation d’appareils de mesure électronique / optique
+    - Reconstruction d’images microscopiques (pyramide)
+ 
+- **Front-End :** PyQT5, Matplotlib (pyplot)
+- **Back-End :** Python, Pandas, Numpy, CSV, SQLAlchemy, QSqlQuery
+- **Outil :** Git, Eclipse
+- **Plateformes :** Windows, Linux
+- **Gestion de projet :** Kanban
+
 <!--
 **doumbis224/doumbis224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
