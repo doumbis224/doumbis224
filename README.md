@@ -60,14 +60,24 @@ Backup hebdomadaire de la base de données de l'établissement
 Développement d’un produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet en quelques minutes
 
 - **Travaux réalisés**
-    - fsfs
+    - Responsable de la gestion des données médicales (système de fichiers, base de données relationnelles)
+    - Développement embarqué
+    - Rédaction de documentation
+    - Tests Unitaires
+    - Développement backend (C++17) et frontend (QML – QT6)
+    - Développement d’une librairie de gestionnaire de réseaux (NetworkManager)
+    - Développement d’un driver de base de données (QT6) pour accéder à SQLCipher
+    - Gestion de base de données chiffrée (SQLCipher)
+    - API d’accès à la base données
+    - Référent technique Python
+    - Mise en place des scripts d’automatisation en Python / Shell
 
 - **Front-End :** QT QML
-- **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie,
+- **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie, Shell
 - **Outil :** Git, Bitbucket, Jenkins
-- **Protocoles de communication :** DBus
+- **Réseaux :** DBus, NetworkManager, TCP/UDP, SSH
 - **Plateformes :** Linux/Debian/Ubuntu, Yocto, Windows
-- **Gestion de projet :** Méthodologie Agile, Jira, Confluence
+- **Gestion de projet :** Agile, Jira, Confluence
 
 ### Projet de Dépistage Visuel
 
