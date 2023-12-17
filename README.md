@@ -60,6 +60,7 @@ Backup hebdomadaire de la base de données de l'établissement
 Développement d’un produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet en quelques minutes
 
 - **Travaux réalisés**
+    - fsfs
 
 - **Front-End :** QT QML
 - **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie,
