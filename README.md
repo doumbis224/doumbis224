@@ -57,7 +57,7 @@ Backup hebdomadaire de la base de données de l'établissement
 
 ### Projet Optométriste | Depuis 2023
 
-Produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet quelques minutes
+Produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet en quelques minutes
 
 - **Front-End :** QT QML
 - **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie,
