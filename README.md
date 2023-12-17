@@ -4,7 +4,7 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 
 ## Déplacement urbain en Ile-De-France
 
-Application de déplacements urbains en Île-de-France avec suivi en temps réel sur une carte interactive
+Application de déplacements urbains en Ile-de-France avec suivi en temps réel sur une carte interactive
 - **Front-End :** Flutter, Mapbox
 - **Back-End :** Python 🐍 PostgreSQL, Flask, aiohttp, Docker, geojson, overpy, Shapely, Apache-Kafka
 - **Outil :** OpenStreetMap, Postman
@@ -57,7 +57,9 @@ Backup hebdomadaire de la base de données de l'établissement
 
 ### Projet Optométriste | Depuis 2023
 
-Produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet en quelques minutes
+Développement d’un produit de diagnostic visuel combinant plusieurs technologies pour permettre aux professionnels de la vue d'effectuer un dépistage complet en quelques minutes
+
+- **Travaux réalisés**
 
 - **Front-End :** QT QML
 - **Back-End :** C++, Python, SQLite, SQLCipher, JSON, Cryptographie,
