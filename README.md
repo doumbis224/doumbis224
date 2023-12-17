@@ -139,7 +139,7 @@ Nouvelle génération de dépisteurs visuels avec technologie digitale. Le proje
 - **Plateformes :** Android, Windows
 - **Gestion de projet :** Agile, Jira, Confluence
 
-- ## Ingénieur Développeur / Instrumentation chez THALES AVS ✈️🚀✈️ | 2018 - 2021
+- ## Ingénieur Développeur / Instrumentation chez THALES AVS ✈️ 🚀 ✈ 🛩️ | 2018 - 2021
 
 ### Logiciel de gestion de suivi des composants défaillants
 
@@ -160,12 +160,36 @@ Nouvelle génération de dépisteurs visuels avec technologie digitale. Le proje
     - Programmation d’appareils de mesure électronique / optique
     - Reconstruction d’images microscopiques (pyramide)
  
-- **Front-End :** PyQT5, Matplotlib (pyplot)
-- **Back-End :** Python, Pandas, Numpy, CSV, SQLAlchemy, QSqlQuery
-- **Outil :** Git, Eclipse
+- **Front-End :** PyQT5, Matplotlib (pyplot), pyqtgraph
+- **Back-End :** Python, Pandas, Numpy, HP Basic
+- **Outil :** Git, Eclipse, VISA, National Instruments
 - **Plateformes :** Windows, Linux
+- **Electronique :** Raspberry Pi, Arduino, Oscilloscope DPO Series, Analyseur de paramètres
+- **Protocoles de communication :** I2C, SPI, GPIB, RS-232
 - **Gestion de projet :** Kanban
 
+### Mesure de luminance
+
+Banc de mesure de luminance des boutons rétro-éclairés du cockpit de l’A320 ✈️. Le projet a permis de remplacer une chambre noire optique par un banc de 30cm sur 15cm
+
+- **Travaux réalisés :**
+    - Analyse du besoin des techniciens
+    - Développement d’IHM de pilotage du banc
+    - Développement schématique et routage de la carte de pilotage
+    - Développement mécanique du boîtier de protection contre les lumières parasites
+    - Câblage des composants électroniques
+    - Étude de la colorimétrie
+    - Gestion du budget
+    - Gestion de stock de composants électroniques en période de COVID-19
+
+- **Front-End :** PyQT5, pyqtgraph
+- **Back-End :** Python
+- **Outil :** Git, Eclipse
+- **Plateformes :** Windows, Linux
+- **Electronique :** Raspberry Pi, Driver de LED
+- **Protocoles de communication :** I2C, Multiplexeur I2C (8 canaux)
+- **CAO :** KiCAD, FreeCAD
+- **Gestion de projet :** Kanban
 <!--
 **doumbis224/doumbis224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
