@@ -53,7 +53,7 @@ Backup hebdomadaire de la base de données de l'établissement
 
 # EXPERIENCES PROFESIONNELLES
 
-- ## Consultant Ingénieur chez Essilor 👓🕶️😎 | Depuis 2023
+- ## Consultant Ingénieur R&D / Développeur chez Essilor 👓🕶️😎 | Depuis 2023
 
 ### Projet Optométriste
 
