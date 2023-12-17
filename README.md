@@ -6,7 +6,7 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 
 - **Langages de programmation :** Python, C, C++, JavaScript, Golang, Java, SQL
 <p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/golang_color.gif" width="100"><img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/bg1KFA80cyxf0gRGqf/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/golang_color.gif" width="100"><img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="100"><img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="100">
 </p>
 
 ## Déplacement urbain en Ile-De-France
