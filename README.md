@@ -8,6 +8,10 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/bg1KFA80cyxf0gRGqf/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://github.com/rfyiamcool/golang_logo/blob/master/gif/golang_color.gif" width="100"><img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="100"><img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="100">
 </p>
+- **IDEs** : VS Code, QT Creator, Eclipse, PyCharm
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 ## Déplacement urbain en Ile-De-France
 
