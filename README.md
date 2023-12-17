@@ -2,6 +2,10 @@
 
 Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne vous inquiétez pas, je ne mords pas !
 
+# EXPERTISE TECHNIQUE ET FONCTIONNELLE
+
+- Langages de programmation
+
 ## Déplacement urbain en Ile-De-France
 
 Application de déplacements urbains en Ile-de-France avec suivi en temps réel sur une carte interactive
