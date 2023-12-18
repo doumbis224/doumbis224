@@ -30,7 +30,7 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 Application de déplacements urbains en Ile-de-France avec suivi en temps réel sur une carte interactive
 
 <p align="center">
-  <img src="https://github.com/doumbis224/doumbis224/blob/main/dmoov-1.gif" width="200"><img src="https://github.com/doumbis224/doumbis224/blob/main/dmoov-2.gif" width="200">
+  <img src="https://github.com/doumbis224/doumbis224/blob/main/dmoov-1.gif" width="200"><img src="https://github.com/doumbis224/doumbis224/blob/main/dmoov-2.gif" width="300">
 </p>
 
 - **Front-End :** Flutter, Mapbox
