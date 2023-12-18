@@ -40,6 +40,11 @@ Application de déplacements urbains en Ile-de-France avec suivi en temps réel 
 ##  Système de cartographie de parcelles
 
 Mise en place d'un système de cartographie de gestion de parcelles (Guinée 🇬🇳) pour résoudre les conflits domaniaux
+
+<p align="center">
+  <img src="https://github.com/doumbis224/doumbis224/blob/main/khirimap.gif">
+</p>
+
 - **Front-End :** HTML/CSS, JS, Mapbox-JS
 - **Back-End :** Python, Flask, PostgreSQL, docker, docker-compose, kubernetes, GCP, Microsoft Azure, waitress
 - **Outil :** OpenStreetMap, QGIS, Postman
