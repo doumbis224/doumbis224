@@ -19,7 +19,7 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
 </p>
 
-- **CI/CD :** Docker, Docker-compose Kubernetes, Argo CD, GCP, Azure, Jenkins, Grafana
+- **CI/CD :** Docker, Docker-compose, Kubernetes, Argo CD, GCP, Azure, Jenkins, Grafana
 
 - **CAO :** FreeCAD, KiCAD
 
