@@ -28,6 +28,11 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
 ## Déplacement urbain en Ile-De-France
 
 Application de déplacements urbains en Ile-de-France avec suivi en temps réel sur une carte interactive
+
+<p align="center">
+  <img src="https://github.com/doumbis224/doumbis224/blob/main/dmoov-1.gif"><img src="https://github.com/doumbis224/doumbis224/blob/main/dmoov-2.gif">
+</p>
+
 - **Front-End :** Flutter, Mapbox
 - **Back-End :** Python 🐍 PostgreSQL, Flask, aiohttp, Docker, geojson, overpy, Shapely, Apache-Kafka
 - **Outil :** OpenStreetMap, Postman
