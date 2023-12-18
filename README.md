@@ -70,6 +70,10 @@ Développement d'un tableau de bord de monitoring d'une clio II
 
 Développement de l'interface graphique d'un robot cuiseur
 
+<p align="center">
+  <img src="https://github.com/doumbis224/doumbis224/blob/main/robot-cuiseur.gif">
+</p>
+
 - **Electronique :** Arduino UNO, Potentiomètre comme bouton rotatif
 - **Front-End :** QT QML
 - **Back-End :** Python, C++
