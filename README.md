@@ -52,6 +52,10 @@ Test comparatif de performance du consensus de validation Proof Of Work entre Py
 
 Développement d'un tableau de bord de monitoring d'une clio II
 
+<p align="center">
+  <img src="https://github.com/doumbis224/doumbis224/blob/main/car-dashboard.gif">
+</p>
+
 - **Electronique :** Interface ELM327 OBD II, Raspberry Pi 4, Écran LCD tactile de 7 pouces
 - **OS :** Raspbian
 - **Front-End :** QT QML
