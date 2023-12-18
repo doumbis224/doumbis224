@@ -213,6 +213,11 @@ Nouvelle génération de dépisteurs visuels avec technologie digitale. Le proje
 
 Banc de mesure de luminance des boutons rétro-éclairés du cockpit de l’A320 ✈️. Le projet a permis de remplacer une chambre noire optique par un banc de 30cm sur 15cm
 
+- *BANC DE FAISABILITE*
+<p align="center">
+  <img src="https://github.com/doumbis224/doumbis224/blob/main/banc-de-faisabilite-luminance.gif">
+</p>
+
 - **Travaux réalisés :**
     - Analyse du besoin des techniciens
     - Développement d’IHM de pilotage du banc
