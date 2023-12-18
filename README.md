@@ -14,7 +14,7 @@ Ingénieur R&D, passionné de programmation avec une expertise en Python🐍 ne 
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-- **Outils :** Git, Bitbucket, Github, Postman
+- **Outils :** Git, Bitbucket, GitHub, Postman
 <p align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
 </p>
